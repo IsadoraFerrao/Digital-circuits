@@ -1,0 +1,54 @@
+C:/Modeltech_pe_edu_10.4a/examples/FULLADDER_1BIT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/FULLADDER_1BIT.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULLADDER
+-- Compiling architecture FAD of FULLADDER
+-- Loading entity HALFADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/HALFADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/HALFADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HALFADDER
+-- Compiling architecture HAD of HALFADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/TB_FULLADDER_1BIT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/TB_FULLADDER_1BIT.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB_FAD
+-- Compiling architecture TB_ARQUITETURA_FAD of TB_FAD
+-- Loading entity FULLADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/TB_HALFADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/TB_HALFADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB_HAD
+-- Compiling architecture TB_ARQUITETURA_HAD of TB_HAD
+-- Loading entity HALFADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/FULLADDER_4BITS.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/FULLADDER_4BITS.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULLADDER4
+-- Compiling architecture FAD4 of FULLADDER4
+-- Loading entity FULLADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/TB_FULLADDER_4BITS.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/TB_FULLADDER_4BITS.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB_FAD4
+-- Compiling architecture TB_ARQUITETURA_FAD4 of TB_FAD4
+-- Loading entity FULLADDER4
+
+} {} {}}

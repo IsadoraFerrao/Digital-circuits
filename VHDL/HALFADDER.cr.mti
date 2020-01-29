@@ -1,0 +1,18 @@
+C:/Modeltech_pe_edu_10.4a/examples/HALFADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/HALFADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HALFADDER
+-- Compiling architecture HAD of HALFADDER
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/TB_HALFADDER.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/TB_HALFADDER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB_HAD
+-- Compiling architecture TB_ARQUITETURA_HAD of TB_HAD
+-- Loading entity HALFADDER
+
+} {} {}}
